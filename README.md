@@ -2,7 +2,7 @@
 
 This repository has been created as part of the **Logitech DevStudio Challenge**, specifically within the **MX Ink – Stylus in XR** category. The project explores the development of an innovative Mixed Reality application for architecture, leveraging the precision and natural interaction capabilities of the Logitech MX Ink stylus on Meta Quest devices.
 
-More information about the submission platform is available on [Devpost](https://devpost.com/).
+More information about the submission platform is available on [Devpost](https://devpost.com/software/axis-xb1emh).
 ---
 
 # AXIS
