@@ -1,4 +1,3 @@
-# AXIS
 
 # AXIS
 ### Redefining Architectural Thinking in Mixed Reality
