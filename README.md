@@ -1,4 +1,9 @@
 
+## Logitech DevStudio Challenge
+
+This repository has been created as part of the **Logitech DevStudio Challenge**, specifically within the **MX Ink – Stylus in XR** category. The project explores the development of an innovative Mixed Reality application for architecture, leveraging the precision and natural interaction capabilities of the Logitech MX Ink stylus on Meta Quest devices. The goal is to demonstrate how stylus-based interaction can enhance spatial design workflows, enabling more intuitive sketching, annotation, and interaction directly within immersive environments.
+---
+
 # AXIS
 ### Redefining Architectural Thinking in Mixed Reality
 
